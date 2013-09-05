@@ -17,5 +17,6 @@
 /vendor/bundle
 /public/uploads
 .powenv
+.powrc
 .env
 .env-tmp
